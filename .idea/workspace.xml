@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="" />
+    <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/supermall/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/supermall" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
@@ -68,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,6 +93,7 @@
       <workItem from="1615776520651" duration="314000" />
       <workItem from="1615776886445" duration="12014000" />
       <workItem from="1615796244107" duration="706000" />
+      <workItem from="1615798019352" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="vue 提交">
       <created>1615796496914</created>
@@ -103,6 +109,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/supermall" />
+      <path value="$PROJECT_DIR$/src/supermall2" />
+    </ignored-roots>
     <MESSAGE value="vue 提交" />
     <option name="LAST_COMMIT_MESSAGE" value="vue 提交" />
   </component>
@@ -115,30 +125,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1156" y="414" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615777755977" />
-    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615796495494">
+    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615798482441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615796495494" />
-    <state width="1384" height="336" key="GridCell.Tab.0.bottom" timestamp="1615796236677">
+    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615798482441" />
+    <state width="1384" height="347" key="GridCell.Tab.0.bottom" timestamp="1615798461463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615796236677" />
-    <state width="1384" height="336" key="GridCell.Tab.0.center" timestamp="1615796236677">
+    <state width="1384" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
+    <state width="1384" height="347" key="GridCell.Tab.0.center" timestamp="1615798461463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615796236677" />
-    <state width="1384" height="336" key="GridCell.Tab.0.left" timestamp="1615796236677">
+    <state width="1384" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
+    <state width="1384" height="347" key="GridCell.Tab.0.left" timestamp="1615798461463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615796236677" />
-    <state width="1384" height="336" key="GridCell.Tab.0.right" timestamp="1615796236677">
+    <state width="1384" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
+    <state width="1384" height="347" key="GridCell.Tab.0.right" timestamp="1615798461463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615796236677" />
-    <state x="603" y="190" key="SettingsEditor" timestamp="1615796949350">
+    <state width="1384" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
+    <state x="603" y="190" key="SettingsEditor" timestamp="1615798053176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="603" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615796949350" />
+    <state x="603" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615798053176" />
     <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615796508681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
