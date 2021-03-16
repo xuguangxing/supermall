@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/home/childComps/RecommendView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/content/tabControl/TabControl.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/home/childComps/FeatureView.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" afterDir="false" />
     </list>
@@ -28,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Component" />
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
+        <option value="Vue Component" />
       </list>
     </option>
   </component>
@@ -118,7 +119,7 @@
       <workItem from="1615798019352" duration="3884000" />
       <workItem from="1615855061421" duration="3218000" />
       <workItem from="1615858495629" duration="2464000" />
-      <workItem from="1615860966251" duration="8884000" />
+      <workItem from="1615860966251" duration="13343000" />
     </task>
     <task id="LOCAL-00001" summary="vue 提交">
       <created>1615796496914</created>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615874393282</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="vue 提交">
+      <created>1615875874325</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615875874325</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,38 +204,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1194" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615860831367" />
-    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615874392873">
+    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615875873139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615874392873" />
+    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615875873139" />
     <state x="311" y="106" key="DiffContextDialog" timestamp="1615859498909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="311" y="106" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615859498909" />
-    <state width="1384" height="331" key="GridCell.Tab.0.bottom" timestamp="1615874691223">
+    <state width="1384" height="331" key="GridCell.Tab.0.bottom" timestamp="1615877300218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615874691223" />
-    <state width="1384" height="331" key="GridCell.Tab.0.center" timestamp="1615874691223">
+    <state width="1384" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615877300218" />
+    <state width="1384" height="331" key="GridCell.Tab.0.center" timestamp="1615877300218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615874691223" />
-    <state width="1384" height="331" key="GridCell.Tab.0.left" timestamp="1615874691222">
+    <state width="1384" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615877300218" />
+    <state width="1384" height="331" key="GridCell.Tab.0.left" timestamp="1615877300218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615874691222" />
-    <state width="1384" height="331" key="GridCell.Tab.0.right" timestamp="1615874691223">
+    <state width="1384" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615877300218" />
+    <state width="1384" height="331" key="GridCell.Tab.0.right" timestamp="1615877300218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615874691223" />
+    <state width="1384" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615877300218" />
     <state x="603" y="190" key="SettingsEditor" timestamp="1615798053176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615798053176" />
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615874401571">
+    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615875879101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615874401571" />
+    <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615875879101" />
     <state x="876" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1615855063241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
