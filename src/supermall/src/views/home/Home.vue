@@ -6,8 +6,6 @@
     export default {
         name: "Home"
     }
-
-    console.log("aaa")
 </script>
 
 <style scoped>

@@ -2,14 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/common/const.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/common/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/cart/tick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/common/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/common/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/common/collect.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/common/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/common/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/detail/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/detail/detail_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/home/recommend_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/avatar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/pointer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/shopping.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/profile/vip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/category.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/category_active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/home_active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/profile_active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/shopcart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/assets/img/tabbar/shopcart_active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/common/tabbar/TabBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/common/tabbar/TabBarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/content/mainTabBar/MainTabBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/cart/Cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/category/Category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/profile/Profile.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-project/src/views/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-project/src/views/home/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/supermall/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/vue.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +99,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/supermall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/supermall/src/views" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,9 +114,29 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea\workplace\supermall\src\supermall\src\assets\css" />
-      <recent name="D:\idea\workplace\vueProject\src\my-project\src\assets\img" />
+      <recent name="D:\idea\workplace\supermall\src\supermall\src\views" />
+      <recent name="D:\idea\workplace\supermall\src\supermall\src\assets\img" />
+      <recent name="D:\idea\workplace\supermall\src\supermall\src\components\content" />
+      <recent name="D:\idea\workplace\supermall\src\supermall\src\components\common" />
+      <recent name="D:\idea\workplace\supermall\src\supermall" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/src/supermall/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -99,7 +151,9 @@
       <workItem from="1615776520651" duration="314000" />
       <workItem from="1615776886445" duration="12014000" />
       <workItem from="1615796244107" duration="706000" />
-      <workItem from="1615798019352" duration="3630000" />
+      <workItem from="1615798019352" duration="3884000" />
+      <workItem from="1615855061421" duration="3218000" />
+      <workItem from="1615858495629" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="vue 提交">
       <created>1615796496914</created>
@@ -122,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615799517076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="vue 提交">
+      <created>1615802212576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615802212576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,38 +210,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1194" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615799664277" />
-    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615799516211">
+    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615802212112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615799516211" />
-    <state width="1384" height="347" key="GridCell.Tab.0.bottom" timestamp="1615798461463">
+    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615802212112" />
+    <state width="1876" height="291" key="GridCell.Tab.0.bottom" timestamp="1615859352705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
-    <state width="1384" height="347" key="GridCell.Tab.0.center" timestamp="1615798461463">
+    <state width="1876" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615859352705" />
+    <state width="1876" height="291" key="GridCell.Tab.0.center" timestamp="1615859352704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
-    <state width="1384" height="347" key="GridCell.Tab.0.left" timestamp="1615798461463">
+    <state width="1876" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615859352704" />
+    <state width="1876" height="291" key="GridCell.Tab.0.left" timestamp="1615859352704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
-    <state width="1384" height="347" key="GridCell.Tab.0.right" timestamp="1615798461463">
+    <state width="1876" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615859352704" />
+    <state width="1876" height="291" key="GridCell.Tab.0.right" timestamp="1615859352705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1384" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615798461463" />
+    <state width="1876" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615859352705" />
     <state x="603" y="190" key="SettingsEditor" timestamp="1615798053176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615798053176" />
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615799528909">
+    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615802218329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615799528909" />
-    <state x="876" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1615776889851">
+    <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615802218329" />
+    <state x="876" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1615855063241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="876" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615776889851" />
+    <state x="876" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615855063241" />
     <state x="881" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615796344951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
