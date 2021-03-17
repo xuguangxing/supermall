@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="vue 提交">
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/network/detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/detail/Detail.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/detail/childComps/DetailNavBar.vue" afterDir="false" />
+    <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsListItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/views/home/childComps/RecommendView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/views/home/childComps/RecommendView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615941753413</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="vue 提交">
+      <created>1615990186346</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615990186346</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,10 +226,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1194" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615860831367" />
-    <state x="559" y="13" key="CommitChangelistDialog2" timestamp="1615983208175">
+    <state x="559" y="13" key="CommitChangelistDialog2" timestamp="1615990181708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="559" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1615983208175" />
+    <state x="559" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1615990181708" />
     <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615941751385" />
     <state x="311" y="106" key="DiffContextDialog" timestamp="1615859498909">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -265,9 +263,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615798053176" />
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615941763319">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="543" y="219" key="Vcs.Push.Dialog.v2" timestamp="1615990190977">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="543" y="219" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1615990190977" />
     <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615941763319" />
     <state x="876" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1615941468166">
       <screen x="0" y="0" width="1920" height="1040" />
