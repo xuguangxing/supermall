@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsListItem.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-project/src/components/tabbar/TabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-project/src/components/tabbar/TabBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/common/tabbar/TabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/components/common/tabbar/TabBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/content/tabControl/TabControl.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/components/content/tabControl/TabControl.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/network/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/network/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/network/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/network/request.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Vue Single File Component" />
         <option value="Vue Component" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -61,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/supermall/src/components/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -118,7 +125,10 @@
       <workItem from="1615855061421" duration="3218000" />
       <workItem from="1615858495629" duration="2464000" />
       <workItem from="1615860966251" duration="16449000" />
-      <workItem from="1615940864580" duration="854000" />
+      <workItem from="1615940864580" duration="2926000" />
+      <workItem from="1615944277725" duration="37000" />
+      <workItem from="1615944339118" duration="14456000" />
+      <workItem from="1615964889890" duration="2190000" />
     </task>
     <task id="LOCAL-00001" summary="vue 提交">
       <created>1615796496914</created>
@@ -183,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615881442238</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="vue 提交">
+      <created>1615941753413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615941753413</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,38 +227,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1194" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615860831367" />
-    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615881441787">
+    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615941751385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615881441787" />
+    <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615941751385" />
     <state x="311" y="106" key="DiffContextDialog" timestamp="1615859498909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="311" y="106" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615859498909" />
-    <state width="1876" height="403" key="GridCell.Tab.0.bottom" timestamp="1615889051284">
+    <state x="760" y="337" key="FileChooserDialogImpl" timestamp="1615943728458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="403" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615889051284" />
-    <state width="1876" height="403" key="GridCell.Tab.0.center" timestamp="1615889051284">
+    <state x="760" y="337" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615943728458" />
+    <state width="1400" height="192" key="GridCell.Tab.0.bottom" timestamp="1615967316444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="403" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615889051284" />
-    <state width="1876" height="403" key="GridCell.Tab.0.left" timestamp="1615889051283">
+    <state width="1400" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
+    <state width="1400" height="192" key="GridCell.Tab.0.center" timestamp="1615967316444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="403" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615889051283" />
-    <state width="1876" height="403" key="GridCell.Tab.0.right" timestamp="1615889051284">
+    <state width="1400" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
+    <state width="1400" height="192" key="GridCell.Tab.0.left" timestamp="1615967316444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="403" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615889051284" />
+    <state width="1400" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
+    <state width="1400" height="192" key="GridCell.Tab.0.right" timestamp="1615967316444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
     <state x="603" y="190" key="SettingsEditor" timestamp="1615798053176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615798053176" />
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615881447715">
+    <state x="679" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615941763319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615881447715" />
+    <state x="679" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615941763319" />
     <state x="876" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1615941468166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -250,6 +271,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="881" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615796344951" />
+    <state x="873" y="299" width="626" height="490" key="find.popup" timestamp="1615964835845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="299" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615964835845" />
     <state x="1139" y="235" width="672" height="676" key="search.everywhere.popup" timestamp="1615790248361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
