@@ -25,7 +25,7 @@
 
   import HomeSwiper from "./childComps/HomeSwiper";
   import RecommendView from "./childComps/RecommendView";
-  import FeatureView from "./childComps/FeatureView";
+  import FeatureView from "./childComps/FeatureView";``
   import TabControl from "../../components/content/tabControl/TabControl";
 
   import {getHomeMultidata} from "../../network/home";
