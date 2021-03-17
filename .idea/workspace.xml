@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsListItem.vue" afterDir="false" />
+    <list default="true" id="f24a2be5-904d-44cb-b853-b6d5c77ee304" name="Default Changelist" comment="vue 提交">
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/network/detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/detail/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermall/src/views/detail/childComps/DetailNavBar.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-project/src/components/tabbar/TabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-project/src/components/tabbar/TabBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/common/tabbar/TabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/components/common/tabbar/TabBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/content/tabControl/TabControl.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/components/content/tabControl/TabControl.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/network/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/network/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/network/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/network/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/views/home/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/components/content/goods/GoodsListItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermall/src/views/home/childComps/RecommendView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermall/src/views/home/childComps/RecommendView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="Vue Component" />
         <option value="Vue Single File Component" />
+        <option value="Vue Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -227,9 +228,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1194" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615860831367" />
-    <state x="699" y="134" key="CommitChangelistDialog2" timestamp="1615941751385">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="559" y="13" key="CommitChangelistDialog2" timestamp="1615983208175">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="559" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1615983208175" />
     <state x="699" y="134" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615941751385" />
     <state x="311" y="106" key="DiffContextDialog" timestamp="1615859498909">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -239,21 +241,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="337" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615943728458" />
-    <state width="1400" height="192" key="GridCell.Tab.0.bottom" timestamp="1615967316444">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1478" height="504" key="GridCell.Tab.0.bottom" timestamp="1615987937667">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1478" height="504" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615987937667" />
     <state width="1400" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
-    <state width="1400" height="192" key="GridCell.Tab.0.center" timestamp="1615967316444">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1478" height="504" key="GridCell.Tab.0.center" timestamp="1615987937667">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1478" height="504" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615987937667" />
     <state width="1400" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
-    <state width="1400" height="192" key="GridCell.Tab.0.left" timestamp="1615967316444">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1478" height="504" key="GridCell.Tab.0.left" timestamp="1615987937667">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1478" height="504" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615987937667" />
     <state width="1400" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
-    <state width="1400" height="192" key="GridCell.Tab.0.right" timestamp="1615967316444">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1478" height="504" key="GridCell.Tab.0.right" timestamp="1615987937667">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1478" height="504" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615987937667" />
     <state width="1400" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615967316444" />
     <state x="603" y="190" key="SettingsEditor" timestamp="1615798053176">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -275,9 +281,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="873" y="299" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615964835845" />
-    <state x="1139" y="235" width="672" height="676" key="search.everywhere.popup" timestamp="1615790248361">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="911" y="186" width="672" height="536" key="search.everywhere.popup" timestamp="1615984033289">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="911" y="186" width="672" height="536" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615984033289" />
     <state x="1139" y="235" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615790248361" />
   </component>
 </project>
