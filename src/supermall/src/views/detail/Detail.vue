@@ -5,6 +5,8 @@
       <detail-swiper :top-images="topImages"></detail-swiper>
       <detail-base-info :goods="goods"></detail-base-info>
       <detail-shop-info :shop="shop"></detail-shop-info>
+      <detail-goods-info :detail-info="detailInfo" @imageLoad="imageLoad"/>
+      <detail-param-info :param-info="paramInfo"/>
     </scroll>
   </div>
 </template>
@@ -16,6 +18,10 @@
 
   import DetailBaseInfo from "./childComps/DetailBaseInfo";
   import DetailShopInfo from "./childComps/DetailShopInfo";
+  import DetailGoodsInfo from "./childComps/DetailGoodsInfo";
+  import DetailParamInfo from "./childComps/DetailParamInfo";
+
+
   import Scroll from "../../components/common/scroll/Scroll";
   import {getDetail, Goods, Shop,GoodsParam} from "../../network/detail";
 
@@ -37,6 +43,8 @@
       DetailSwiper,
       DetailBaseInfo,
       DetailShopInfo,
+      DetailGoodsInfo,
+      DetailParamInfo,
       Scroll
     },
     created() {
@@ -57,14 +65,19 @@
         // 5.获取参数的信息
         this.paramInfo = new GoodsParam(data.itemParams.info, data.itemParams.rule)
       })
+    },
+  methods: {
+    imageLoad() {
+      this.$refs.scroll.refresh()
     }
+  }
   }
 </script>
 
 <style scoped>
   #detail {
     position: relative;
-    z-index: 10;
+    z-index: 9;
     background-color: #fff;
     height: 100vh;
   }
